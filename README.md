@@ -1,2 +1,2 @@
 # Uzay-Robot-Oyunu
-Size çok güzel bir oyun yaptım. İsteyen herkes bu oyunu oynayabilir.
+Size çok güzel bir oyun yaptım. İsteyen herkes bu oyunu oynayabilir. Bu arada ilk oyunum.
